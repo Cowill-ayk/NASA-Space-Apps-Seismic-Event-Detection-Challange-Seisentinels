@@ -1,0 +1,5 @@
+Segment 1: Start Time = 0.00s, End Time = 80.00s, Event in Segment: False
+Segment 2: Start Time = 79.00s, End Time = 159.00s, Event in Segment: False
+Segment 3: Start Time = 158.00s, End Time = 238.00s, Event in Segment: True
+Segment 4: Start Time = 237.00s, End Time = 317.00s, Event in Segment: False
+Segment 5: Start Time = 316.00s, End Time = 396.00s, Event in Segment: False
